@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Derek Banas</string>
+
+    <string name="imieID">Wprowadz imie: </string>
+    <string name="nazwiskoID">Wprowadz nazwisko: </string>
+    <string name="action_settings">Settings</string>
+    <string name="lowerString">i want this string to be below the other one</string>
+    <string name="upperString">This is a HEADING! :)</string>
+    <string name="title_activity_info">Info</string>
+    <string name="nazwiskoStringID">nazwiskoStringID</string>
+    <string name="imieStringID">imieStringID</string>
+    <string name="stars">stars</string>
+</resources>
